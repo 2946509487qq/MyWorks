@@ -8,26 +8,26 @@
 
 1.使用UGUI制作的游戏界面
 
-[![image-20241022215354469](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022215354469.png)]()
+<img src="Image/1.png" style="zoom: 50%;" />
 
 2.DOTween插件实现摄像机跟随
 
-[<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022215550279.png" alt="image-20241022215550279" style="zoom:50%;" />]()
+<img src="Image/2.png" style="zoom: 67%;" />
 
 
 
 3.脚本结合UI制作的新手指引、金币抽奖、皮肤抽奖等功能
 
-[<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022215830253.png" alt="image-20241022215830253" style="zoom:33%;" />]()
+<img src="Image/3.png" style="zoom:50%;" />
 
-[<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022215702922.png" alt="image-20241022215702922" style="zoom:50%;" />]()
+<img src="Image/4.png" style="zoom:50%;" />
 
-[<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022215853597.png" alt="image-20241022215853597" style="zoom:50%;" />]()
+![](Image/5.png)
 
 **金币抽奖实现逻辑**
 
-[<img src="C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022215902778.png" alt="image-20241022215902778" style="zoom:67%;" />]()
+<img src="Image/6.png" style="zoom:67%;" />
 
 使用PlayerPrefs将游戏数据持久化
 
-[![image-20241022220237756](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20241022220237756.png)]()
+![](Image/7.png)
